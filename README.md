@@ -4,4 +4,8 @@ A CLI Tool that helps with case management and filtering
 
 ## Usage
 
-Here is the usage
+Setup:
+
+```bash
+mkdir -p ~/zettelkasten/cases/
+```
